@@ -1,3 +1,5 @@
+This project was developed as a Technical interview. I Had 4 hours to understand the problem and create it from scratch; I should create a BFF that consumes from an API and deliver if in three endpoints using cache.
+
 # Starting
 For execute this project you should have the following programs installed:
 - [JDK 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
